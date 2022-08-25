@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Vivek-Vaidya
 - 👀 I’m interested in Web development;
 - 🌱 I’m currently learning the backend development from the course provided by the meta;
-- 💞️ I’m looking to collaborate on open source contributions;
+- 💞️ I’m looking to intern;
 - 📫 How to reach me : just drop a mail vaidya764@gmail.com
 
 <!---
